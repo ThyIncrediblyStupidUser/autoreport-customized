@@ -66,7 +66,6 @@ words = {
     ['kiz'] = 'Dating',
     ['love'] = 'Dating',
     ['mentally ill'] = 'Bullying',
-    ['sex?'] = 'Dating',
     ['sperm'] = 'Dating',
     ['dick'] = 'Dating',
     ['asshole'] = 'Dating',
