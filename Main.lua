@@ -76,6 +76,7 @@ words = {
     ['fuck me'] = 'Dating',
     ['assi'] = 'Swearing',
     ['penis'] = 'Dating',
+    ['cream'] = 'Dating',
 }
 
 if not game:GetService('ReplicatedStorage'):FindFirstChild('DefaultChatSystemChatEvents') or not game:GetService('ReplicatedStorage'):FindFirstChild('DefaultChatSystemChatEvents'):FindFirstChild('OnMessageDoneFiltering') then return end
