@@ -44,7 +44,6 @@ words = {
     ['download'] = 'Offsite Links',
     ['youtube'] = 'Offsite Links',
     ['dizzy'] = 'Offsite Links',
-    ['l'] = 'Bullying',
     ['bum'] = 'Bullying',
     ['smell'] = 'Bullying',
     ['furry'] = 'Bullying',
